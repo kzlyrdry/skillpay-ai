@@ -1,5 +1,5 @@
 🚀 SkillPay AI – Salary Prediction System
-🇹🇷 Türkçe Versiyon
+
 📌 Proje Amacı
 
 SkillPay AI, AI ve Data rollerinde maaş tahminini sezgisel değil, veri odaklı şekilde gerçekleştirmek amacıyla geliştirilmiş uçtan uca bir makine öğrenmesi projesidir.
@@ -73,7 +73,7 @@ Seaborn
 
 SkillPay AI, maaş tahmini problemini veri bilimi perspektifinden ele alarak iş başvurularında daha gerçekçi ve analitik maaş beklentisi belirlenmesini amaçlamaktadır.
 
-🇬🇧 English Version
+
 📌 Project Objective
 
 SkillPay AI is an end-to-end machine learning project designed to predict salary ranges in AI and Data roles using real-world job listing data.
